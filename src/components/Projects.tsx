@@ -5,14 +5,13 @@ class Projects extends Component {
         return (
             <div>
                 <div>
-                    Solution Square (진행 중)
-                    - 자동화 기기(PLC, HMI, Drive...) 관련 문서 조회 Portal 및 문서 검색 포털 사이트
-                    - 프로젝트 기여도: 40%
-                    - 업무: Front-End 개발 70%, Back-End 개발 30%
-                    - Skills: React.js, Typescript, Webpack, Jest, MobX, Java, Spring Boot 2, JUnit,
-                    Mongo DB, Maria DB, Elasticsearch...
-                    - 주요 개발 기능: 문서 파일 업로드 및 검색 페이지 구현, Social Login 구현, Elasticsearch를
-                    통한 문서 검색 엔진 구축, 제품 카테고리 관리, Web Editor를 통한 컨텐츠 업로드 등
+                    <div>2021. 01 ~</div>
+                    <div>Solution Square (진행 중)</div>
+                    <div>- 자동화 기기(PLC, HMI, Drive...) 관련 문서 조회 Portal 및 문서 검색 포털 사이트</div>
+                    <div>- 프로젝트 기여도: 40%</div>
+                    <div>- 업무: Front-End 개발 70%, Back-End 개발 30%</div>
+                    <div>- Skills: React.js, Typescript, Webpack, Jest, MobX, Java, Spring Boot 2, JUnit, Mongo DB, Maria DB, Elasticsearch...</div>
+                    <div>- 주요 개발 기능: 문서 파일 업로드 및 검색 페이지 구현, Social Login 구현, Elasticsearch를 통한 문서 검색 엔진 구축, 제품 카테고리 관리, Web Editor를 통한 컨텐츠 업로드 등</div>
                 </div>
                 <div>
                     ● 2021.1 - 2018.12
