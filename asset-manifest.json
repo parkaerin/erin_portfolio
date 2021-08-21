@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/erin_portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/erin_portfolio/static/js/main.2b8a5ea2.chunk.js",
-    "main.js.map": "/erin_portfolio/static/js/main.2b8a5ea2.chunk.js.map",
-    "runtime-main.js": "/erin_portfolio/static/js/runtime-main.4e515b64.js",
-    "runtime-main.js.map": "/erin_portfolio/static/js/runtime-main.4e515b64.js.map",
-    "static/js/2.e252a85f.chunk.js": "/erin_portfolio/static/js/2.e252a85f.chunk.js",
-    "static/js/2.e252a85f.chunk.js.map": "/erin_portfolio/static/js/2.e252a85f.chunk.js.map",
-    "static/js/3.0a5fdc31.chunk.js": "/erin_portfolio/static/js/3.0a5fdc31.chunk.js",
-    "static/js/3.0a5fdc31.chunk.js.map": "/erin_portfolio/static/js/3.0a5fdc31.chunk.js.map",
-    "index.html": "/erin_portfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/erin_portfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e252a85f.chunk.js.LICENSE.txt": "/erin_portfolio/static/js/2.e252a85f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/erin_portfolio/static/media/logo.6ce24c58.svg"
+    "main.css": "/erin-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/erin-portfolio/static/js/main.2b8a5ea2.chunk.js",
+    "main.js.map": "/erin-portfolio/static/js/main.2b8a5ea2.chunk.js.map",
+    "runtime-main.js": "/erin-portfolio/static/js/runtime-main.d4abf248.js",
+    "runtime-main.js.map": "/erin-portfolio/static/js/runtime-main.d4abf248.js.map",
+    "static/js/2.e252a85f.chunk.js": "/erin-portfolio/static/js/2.e252a85f.chunk.js",
+    "static/js/2.e252a85f.chunk.js.map": "/erin-portfolio/static/js/2.e252a85f.chunk.js.map",
+    "static/js/3.0a5fdc31.chunk.js": "/erin-portfolio/static/js/3.0a5fdc31.chunk.js",
+    "static/js/3.0a5fdc31.chunk.js.map": "/erin-portfolio/static/js/3.0a5fdc31.chunk.js.map",
+    "index.html": "/erin-portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/erin-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e252a85f.chunk.js.LICENSE.txt": "/erin-portfolio/static/js/2.e252a85f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/erin-portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e515b64.js",
+    "static/js/runtime-main.d4abf248.js",
     "static/js/2.e252a85f.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.2b8a5ea2.chunk.js"
